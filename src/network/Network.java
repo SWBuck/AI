@@ -177,7 +177,7 @@ public class Network {
 	}
 
 	public static void main(String[] args) {
-		// Xor
+		// XOR Example
 		double[][] i = new double[][] { { 0.1, 0.1 }, { 0.1, 0.9 },
 				{ 0.9, 0.1 }, { 0.9, 0.9 }, };
 		double[][] o = new double[][] { { 0.1 }, { 0.9 }, { 0.9 }, { 0.1 } };
@@ -200,7 +200,5 @@ public class Network {
 		System.out.println("0.0001\t0.0001\t" + nn.getOutput()[0]);
 		System.out.println();
 		System.out.println();
-
-		// nn.test();
 	}
 }
