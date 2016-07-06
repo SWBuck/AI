@@ -1,4 +1,4 @@
-package network;
+package nn;
 
 public class Axon {
 	private Neuron inputNeuron;

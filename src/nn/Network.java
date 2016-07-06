@@ -1,4 +1,4 @@
-package network;
+package nn;
 
 import java.util.ArrayList;
 import java.util.Collections;
